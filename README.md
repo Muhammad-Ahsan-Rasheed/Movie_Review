@@ -2,6 +2,10 @@
 
 A PyTorch-based sentiment analysis project that classifies movie reviews as positive or negative using FastText embeddings and an LSTM-based neural network. The project includes a Streamlit application for interactive predictions.
 
+## Working App
+![image](https://github.com/user-attachments/assets/4ece67f7-2ab4-407d-9cbc-087a55e9dfa2)
+
+
 ## **Table of Contents**
 - Project Overview
 - File Structure
